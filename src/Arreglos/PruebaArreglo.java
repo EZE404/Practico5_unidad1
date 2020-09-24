@@ -1,6 +1,6 @@
 package Arreglos;
 
-public class NewMain {
+public class PruebaArreglo {
 
     public static void main(String[] args) {
         
